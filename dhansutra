@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DhanSutra Privacy Policy</title>
+  <style>
+    body {
+      font: 16px/1.6 Arial, sans-serif;
+      max-width: 820px;
+      margin: auto;
+      padding: 22px;
+      color: #102438;
+    }
+    h1, h2, a {
+      color: #087f68;
+    }
+    section {
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+  <a href="index.html">
+    Back to calculators / कैलकुलेटर पर वापस जाएँ
+  </a>
+
+  <h1>DhanSutra Privacy Policy / गोपनीयता नीति</h1>
+
+  <p>
+    Effective date: 14 October 2026.
+    Developer: Sunit Kumar Giria.
+    Contact:
+    <a href="mailto:casunitgiria@gmail.com">casunitgiria@gmail.com</a>.
+  </p>
+
+  <section>
+    <h2>Financial inputs and saved plans</h2>
+    <p>
+      DhanSutra calculates on your device. Financial inputs, calculation
+      drafts and saved plans are stored locally and are not sent to a
+      developer server or to the advertising SDK by our calculator code.
+      There is no account, login, cloud sync, payment processing, lending
+      or trading service. You can remove calculator drafts and saved
+      plans in Settings, and remove all app data in Android storage
+      settings or by uninstalling. Android system backup is disabled.
+    </p>
+    <p lang="hi">
+      गणना डिवाइस पर होती है। वित्तीय इनपुट और सहेजी योजनाएँ स्थानीय
+      रूप से रहती हैं; कैलकुलेटर कोड इन्हें डेवलपर सर्वर या विज्ञापन
+      SDK को नहीं भेजता। कोई लॉगिन, क्लाउड सिंक, भुगतान, ऋण या ट्रेडिंग
+      सेवा नहीं है। योजनाएँ ऐप सेटिंग्स से और सभी ऐप डेटा Android
+      स्टोरेज सेटिंग्स या अनइंस्टॉल से हटा सकते हैं।
+    </p>
+  </section>
+
+  <section>
+    <h2>Exports and external links</h2>
+    <p>
+      If you choose to export a backup, CSV or result, Android allows
+      you to choose the recipient app or storage destination. That
+      exported file can contain financial information; the destination
+      handles it under its own policies. Export files are temporarily
+      held in the app's private cache. Official-reference links and
+      email links open external apps when you choose them.
+    </p>
+    <p lang="hi">
+      बैकअप, CSV या परिणाम निर्यात करने पर प्राप्तकर्ता ऐप या स्थान
+      आप चुनते हैं। फ़ाइल में वित्तीय जानकारी हो सकती है। बाहरी ऐप
+      अपनी नीतियों के अनुसार उसे संभालता है। संदर्भ और ईमेल लिंक
+      आपकी इच्छा से बाहरी ऐप खोलते हैं।
+    </p>
+  </section>
+
+  <section>
+    <h2>Google advertising and consent</h2>
+    <p>
+      The app includes Google Mobile Ads (AdMob) banner, interstitial
+      and voluntary rewarded ads. Google's SDK automatically collects
+      and shares IP addresses (which can indicate approximate location),
+      app/ad interactions, diagnostic information and device/account
+      identifiers such as advertising ID and app-set ID for advertising,
+      analytics and fraud prevention. SDK data is encrypted in transit.
+      Google's services may process this information internationally
+      under their policies and retention practices; we do not set
+      Google's retention period. See
+      <a href="https://policies.google.com/privacy">Google Privacy Policy</a>
+      and
+      <a href="https://myadcenter.google.com/">Google ad controls</a>.
+    </p>
+    <p lang="hi">
+      ऐप में Google AdMob बैनर, पूर्ण स्क्रीन और वैकल्पिक रिवॉर्ड
+      विज्ञापन हैं। Google SDK IP पता (अनुमानित स्थान), ऐप/विज्ञापन
+      गतिविधि, निदान और डिवाइस/खाता पहचान विज्ञापन, विश्लेषण और
+      धोखाधड़ी रोकथाम के लिए एकत्र और साझा करता है। संचार एन्क्रिप्टेड
+      होता है। Google अपनी नीति और डेटा रखने की अवधि के अनुसार
+      जानकारी संभालता है।
+    </p>
+    <p>
+      The User Messaging Platform (UMP) requests updated consent
+      information at launch and displays available messages where
+      required. Settings → Ad privacy choices lets you reopen available
+      privacy options. Your choice governs ad requests through UMP.
+      You can also reset or delete your advertising ID in Android.
+      Calculations remain available offline or when ads or consent
+      services are unavailable.
+    </p>
+    <p lang="hi">
+      UMP ऐप शुरू होने पर सहमति की स्थिति जाँचता है और आवश्यक होने
+      पर उपलब्ध फ़ॉर्म दिखाता है। सेटिंग्स में विज्ञापन गोपनीयता
+      विकल्प उपलब्ध हैं। Android में विज्ञापन ID रीसेट या हटा
+      सकते हैं। ऑफलाइन या विज्ञापन उपलब्ध न होने पर भी गणना चलती है।
+    </p>
+  </section>
+
+  <section>
+    <h2>Optional rewarded ad</h2>
+    <p>
+      Settings offers one optional rewarded ad in exchange for
+      30 minutes without banner or interstitial ads. A reward is
+      granted only when Google's earned-reward callback fires.
+      Skipping or closing an ad does not block calculators.
+      A reward-expiry timestamp is saved locally to honour remaining
+      time after restart. Local counters used to limit interstitial
+      frequency contain no financial inputs and are not uploaded
+      by our code.
+    </p>
+    <p lang="hi">
+      सेटिंग्स में वैकल्पिक विज्ञापन पूरा करने पर 30 मिनट बैनर और
+      पूर्ण स्क्रीन विज्ञापन बंद होते हैं। Google के रिवॉर्ड
+      कॉलबैक पर ही लाभ मिलता है। विज्ञापन छोड़ने पर कैलकुलेटर
+      बंद नहीं होते। समाप्ति समय और विज्ञापन सीमा के स्थानीय
+      काउंटर डिवाइस पर रहते हैं।
+    </p>
+  </section>
+
+  <section>
+    <h2>Audience and security</h2>
+    <p>
+      DhanSutra is intended for adults, not directed to children.
+      It requests no camera, microphone, contacts or precise-location
+      permission. Network access supports ads and external references.
+      The packaged calculator WebView blocks remote resources and
+      file access; no system can be guaranteed completely secure.
+      Keep your device and WebView updated.
+    </p>
+    <p lang="hi">
+      यह ऐप वयस्कों के लिए है, बच्चों को लक्षित नहीं करता।
+      कैमरा, माइक्रोफ़ोन, संपर्क या सटीक स्थान की अनुमति नहीं
+      माँगता। डिवाइस और WebView अपडेट रखें।
+    </p>
+  </section>
+
+  <section>
+    <h2>Contact and changes</h2>
+    <p>
+      For questions or privacy requests contact
+      <a href="mailto:casunitgiria@gmail.com">casunitgiria@gmail.com</a>.
+      Google controls the data it collects through its services;
+      use its privacy controls for that data. This policy will
+      be updated if the app's data practices change.
+    </p>
+    <p lang="hi">
+      गोपनीयता प्रश्न या अनुरोध के लिए
+      <a href="mailto:casunitgiria@gmail.com">casunitgiria@gmail.com</a>
+      पर संपर्क करें। Google सेवा के डेटा के लिए उसके गोपनीयता
+      विकल्पों का उपयोग करें।
+    </p>
+  </section>
+</body>
+</html>
